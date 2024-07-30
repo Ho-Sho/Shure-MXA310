@@ -190,11 +190,10 @@ The following controls are available in the plugin:
 - **QDS**: ver 9.10.1
   - Note: Discover may not work with QDS v9.10.1 or lower. Additionally, it cannot search link-local-ip (DHCP Address) without a DHCP server.
 
-
-![Alt text](/Capture/Shure MXA310 Plugin.gif)
 ![Alt text](/Capture/Shure-MXA310-Channels.png)
 ![Alt text](/Capture/Shure-MXA310-Automix.png)
 ![Alt text](/Capture/Shure-MXA310-Coverage.png)
 ![Alt text](/Capture/Shure-MXA310-Lights.png)
 ![Alt text](/Capture/Shure-MXA310-Presets.png)
 ![Alt text](/Capture/Shure-MXA310-Settings.png)
+![Alt text](/Capture/Shure-MXA310-Plugin.gif)
