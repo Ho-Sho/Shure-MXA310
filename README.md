@@ -6,6 +6,10 @@ As you know, use this plugin at your own risk.
 
 ## Version History
 
+### v1.0.3
+- **Bug Fixes**: 2024/11/08
+  - Fixed an issue where the connection was not reconnecting after being disconnected from the device.
+
 ### v1.0.2
 - **Bug Fixes**:
   - Fixed Inc/Dec behavior of angles, especially from 345 to 00 and 00 to 345.
